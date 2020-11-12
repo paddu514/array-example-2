@@ -1,0 +1,10 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	grades :=[3]int{93,73,92}
+	fmt.printf("grades: %v, grades)
+}
